@@ -12,9 +12,3 @@ export default function Footer(){
 </footer>
     );
 }
-
-
-
-
-
-//TESTET B
