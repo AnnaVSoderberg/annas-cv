@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "skola": "Campus Varberg",
+        "utbildning": [
+            {
+                "namn": "Systemutvecklare .NET"
+            }
+            ]
+    },
+
+    {
+        "id": 2,
+        "skola": "Högskolan i Gävle",
+        "utbildning":
+        [
+            {
+                "namn":  "Grundläggande inköpsteknik"
+            }
+        ]
+    },
+
+    { 
+        "id": 3,
+        "skola": "Linköpings universitet",
+        "utbildning":
+        [
+            {
+                "namn": "Grunderna i AI"
+            }
+        ]
+    },
+    
+    {
+        "id": 4,
+        "skola": "Mittuniversitetet",
+        "utbildning":
+        [
+            {
+                "nr": 1001,
+                "namn":"Företagsekonomi GR (A), Organisation och ledarskap"},
+            {
+                "nr": 1002,
+                "namn": "Företagsekonomi GR (A), Ekonomistyrning"},
+            {
+                "nr":1003,
+                "namn": "Företagsekonomi GR (A), Marknadsföring" }
+        ]
+    }
+]
