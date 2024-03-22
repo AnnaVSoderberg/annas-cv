@@ -10,6 +10,7 @@ function Home(){
         const imgClick = () => {
             setBgColor(bgColor === "rgb(20, 66, 105)" ? "" : "rgb(20, 66, 105)")
         };
+		console.log("DU KOMMER HIT");
 
 
 	return(
